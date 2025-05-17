@@ -1,0 +1,422 @@
+[
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "send_from_directory",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "predict_disease",
+        "importPath": "disease",
+        "description": "disease",
+        "isExtraImport": true,
+        "detail": "disease",
+        "documentation": {}
+    },
+    {
+        "label": "load_breast_cancer",
+        "importPath": "sklearn.datasets",
+        "description": "sklearn.datasets",
+        "isExtraImport": true,
+        "detail": "sklearn.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_breast_cancer",
+        "importPath": "sklearn.datasets",
+        "description": "sklearn.datasets",
+        "isExtraImport": true,
+        "detail": "sklearn.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "get_analytics_data",
+        "importPath": "mapping",
+        "description": "mapping",
+        "isExtraImport": true,
+        "detail": "mapping",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "DecisionTreeClassifier",
+        "importPath": "sklearn.tree",
+        "description": "sklearn.tree",
+        "isExtraImport": true,
+        "detail": "sklearn.tree",
+        "documentation": {}
+    },
+    {
+        "label": "DecisionTreeRegressor",
+        "importPath": "sklearn.tree",
+        "description": "sklearn.tree",
+        "isExtraImport": true,
+        "detail": "sklearn.tree",
+        "documentation": {}
+    },
+    {
+        "label": "LogisticRegression",
+        "importPath": "sklearn.linear_model",
+        "description": "sklearn.linear_model",
+        "isExtraImport": true,
+        "detail": "sklearn.linear_model",
+        "documentation": {}
+    },
+    {
+        "label": "LabelEncoder",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "MultiLabelBinarizer",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "r2_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "root_mean_squared_error",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "Kisaan.AI.app",
+        "description": "Kisaan.AI.app",
+        "peekOfCode": "def home():\n    return render_template('index.html')\n@app.route('/faq')\ndef faq():\n    return render_template('faq.html')\n@app.route('/about')\ndef about():\n    return render_template('about.html')\n@app.route('/crop_price', methods=['GET', 'POST'])\ndef crop_price():",
+        "detail": "Kisaan.AI.app",
+        "documentation": {}
+    },
+    {
+        "label": "faq",
+        "kind": 2,
+        "importPath": "Kisaan.AI.app",
+        "description": "Kisaan.AI.app",
+        "peekOfCode": "def faq():\n    return render_template('faq.html')\n@app.route('/about')\ndef about():\n    return render_template('about.html')\n@app.route('/crop_price', methods=['GET', 'POST'])\ndef crop_price():\n    df = pd.read_csv(\"dataset/Crop_Price.csv\")\n    state_encoder = pickle.load(open(\"model/state_encoder.pkl\", \"rb\"))\n    crop_encoder = pickle.load(open(\"model/crop_encoder.pkl\", \"rb\"))",
+        "detail": "Kisaan.AI.app",
+        "documentation": {}
+    },
+    {
+        "label": "about",
+        "kind": 2,
+        "importPath": "Kisaan.AI.app",
+        "description": "Kisaan.AI.app",
+        "peekOfCode": "def about():\n    return render_template('about.html')\n@app.route('/crop_price', methods=['GET', 'POST'])\ndef crop_price():\n    df = pd.read_csv(\"dataset/Crop_Price.csv\")\n    state_encoder = pickle.load(open(\"model/state_encoder.pkl\", \"rb\"))\n    crop_encoder = pickle.load(open(\"model/crop_encoder.pkl\", \"rb\"))\n    crop_price_model = pickle.load(open(\"model/crop_price_model.pkl\", \"rb\"))\n    unique_states = sorted(df['State'].unique())\n    unique_crops = sorted(df['Crop'].unique())",
+        "detail": "Kisaan.AI.app",
+        "documentation": {}
+    },
+    {
+        "label": "crop_price",
+        "kind": 2,
+        "importPath": "Kisaan.AI.app",
+        "description": "Kisaan.AI.app",
+        "peekOfCode": "def crop_price():\n    df = pd.read_csv(\"dataset/Crop_Price.csv\")\n    state_encoder = pickle.load(open(\"model/state_encoder.pkl\", \"rb\"))\n    crop_encoder = pickle.load(open(\"model/crop_encoder.pkl\", \"rb\"))\n    crop_price_model = pickle.load(open(\"model/crop_price_model.pkl\", \"rb\"))\n    unique_states = sorted(df['State'].unique())\n    unique_crops = sorted(df['Crop'].unique())\n    if request.method == 'POST':\n        try:\n            state = request.form['State']",
+        "detail": "Kisaan.AI.app",
+        "documentation": {}
+    },
+    {
+        "label": "crop",
+        "kind": 2,
+        "importPath": "Kisaan.AI.app",
+        "description": "Kisaan.AI.app",
+        "peekOfCode": "def crop():\n    crop_model = pickle.load(open(\"model/crop_predict_model.pkl\", \"rb\"))\n    if request.method == 'POST':\n        features = [float(x) for x in request.form.values()]\n        prediction = crop_model.predict([np.array(features)])\n        return render_template('crop.html', prediction=prediction[0])\n    return render_template('crop.html')\n@app.route('/fertilizer', methods=['GET', 'POST'])\ndef fertilizer():\n    df = pd.read_csv('dataset/fertilizer.csv')",
+        "detail": "Kisaan.AI.app",
+        "documentation": {}
+    },
+    {
+        "label": "fertilizer",
+        "kind": 2,
+        "importPath": "Kisaan.AI.app",
+        "description": "Kisaan.AI.app",
+        "peekOfCode": "def fertilizer():\n    df = pd.read_csv('dataset/fertilizer.csv')\n    unique_soil = sorted(df['Soil'].unique())\n    unique_crops = sorted(df['Crop'].unique())\n    prediction = None\n    remark = None\n    if request.method == 'POST':\n        try:\n            soil = request.form.get('Soil', '').strip().title()\n            crop = request.form.get('Crop', '').strip().lower()",
+        "detail": "Kisaan.AI.app",
+        "documentation": {}
+    },
+    {
+        "label": "disease",
+        "kind": 2,
+        "importPath": "Kisaan.AI.app",
+        "description": "Kisaan.AI.app",
+        "peekOfCode": "def disease():\n    with open(\"dataset/symptoms.json\", \"r\") as f:\n        symptoms_list = json.load(f)\n    if request.method == 'POST':\n        user_symptoms = request.form.getlist(\"symptoms[]\")  # Get symptoms as a list\n        days = int(request.form.get(\"days\", 5))\n        if not user_symptoms:\n            return jsonify({\"error\": \"No symptoms entered\"}), 400\n        advice, predictions = predict_disease(user_symptoms, days)\n        response = {",
+        "detail": "Kisaan.AI.app",
+        "documentation": {}
+    },
+    {
+        "label": "breast_cancer",
+        "kind": 2,
+        "importPath": "Kisaan.AI.app",
+        "description": "Kisaan.AI.app",
+        "peekOfCode": "def breast_cancer():\n    breast_cancer_model = pickle.load(open(\"model/breast_cancer_model.pkl\", \"rb\"))\n    features = [\n    'mean_radius', 'mean_texture', 'mean_perimeter', 'mean_area',\n    'mean_smoothness', 'mean_compactness', 'mean_concavity',\n    'mean_concave_points', 'mean_symmetry', 'mean_fractal_dimension'\n]\n    values = []\n    result = None\n    if request.method == 'POST':",
+        "detail": "Kisaan.AI.app",
+        "documentation": {}
+    },
+    {
+        "label": "analytics",
+        "kind": 2,
+        "importPath": "Kisaan.AI.app",
+        "description": "Kisaan.AI.app",
+        "peekOfCode": "def analytics():\n    analytics_data = get_analytics_data()\n    return render_template('analytics.html', analytics=analytics_data)\n@app.route('/maps/<path:filename>')\ndef maps(filename):\n    return send_from_directory('maps', filename)\nif __name__ == '__main__':\n    app.run(debug=True)",
+        "detail": "Kisaan.AI.app",
+        "documentation": {}
+    },
+    {
+        "label": "maps",
+        "kind": 2,
+        "importPath": "Kisaan.AI.app",
+        "description": "Kisaan.AI.app",
+        "peekOfCode": "def maps(filename):\n    return send_from_directory('maps', filename)\nif __name__ == '__main__':\n    app.run(debug=True)",
+        "detail": "Kisaan.AI.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "Kisaan.AI.app",
+        "description": "Kisaan.AI.app",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/')\ndef home():\n    return render_template('index.html')\n@app.route('/faq')\ndef faq():\n    return render_template('faq.html')\n@app.route('/about')\ndef about():\n    return render_template('about.html')",
+        "detail": "Kisaan.AI.app",
+        "documentation": {}
+    },
+    {
+        "label": "predict_disease",
+        "kind": 2,
+        "importPath": "Kisaan.AI.disease",
+        "description": "Kisaan.AI.disease",
+        "peekOfCode": "def predict_disease(user_symptoms, days):\n    with open('model/disease_model.pkl', 'rb') as f:\n        model, mlb = pickle.load(f)\n    user_symptoms = [s.strip().lower() for s in user_symptoms if s.strip()]\n    known_symptoms = set(mlb.classes_)\n    filtered_symptoms = [s for s in user_symptoms if s in known_symptoms]\n    if not filtered_symptoms:  # If no valid symptoms are found\n        return \"No valid symptoms detected. Please enter known symptoms.\", {}\n    input_vector = mlb.transform([filtered_symptoms])\n    predicted_diseases = model.predict(input_vector)",
+        "detail": "Kisaan.AI.disease",
+        "documentation": {}
+    },
+    {
+        "label": "get_drugs_for_disease",
+        "kind": 2,
+        "importPath": "Kisaan.AI.disease",
+        "description": "Kisaan.AI.disease",
+        "peekOfCode": "def get_drugs_for_disease(disease):\n    df = pd.read_csv(\"dataset/medicine.csv\")\n    df[\"Disease\"] = df[\"Disease\"].str.lower()\n    disease_lower = disease.strip().lower()\n    disease_data = df[df[\"Disease\"].str.contains(disease_lower, na=False, case=False)]\n    if disease_data.empty:\n        print(f\"No medicine found for {disease_lower}\")\n        return {\"Medications\": [\"No drug found\"], \"Diet\": [\"No dietary recommendations\"]}\n    medications = eval(disease_data.iloc[0][\"Medication\"])\n    diet = eval(disease_data.iloc[0][\"Diet\"])",
+        "detail": "Kisaan.AI.disease",
+        "documentation": {}
+    },
+    {
+        "label": "get_analytics_data",
+        "kind": 2,
+        "importPath": "Kisaan.AI.mapping",
+        "description": "Kisaan.AI.mapping",
+        "peekOfCode": "def get_analytics_data():\n    \"\"\"\n    Loads metrics and plot paths for all models for analytics dashboard.\n    Returns a dictionary suitable for passing to the analytics.html template.\n    \"\"\"\n    base_metrics = \"analytics\"\n    base_plots = \"analytics\"  # relative to static/\n    maps_folder = \"maps\"\n    models = [\n        (\"crop_recommendation\", \"Crop Recommendation\"),",
+        "detail": "Kisaan.AI.mapping",
+        "documentation": {}
+    },
+    {
+        "label": "save_metrics",
+        "kind": 2,
+        "importPath": "Kisaan.AI.training",
+        "description": "Kisaan.AI.training",
+        "peekOfCode": "def save_metrics(metrics, filename):\n    with open(filename, \"w\") as f:\n        json.dump(metrics, f, indent=2)\ndef Train_Crop_Recommendation():\n    data = pd.read_csv(\"dataset/Crop_recommendation.csv\")\n    features = ['N','P','K','temperature','humidity','ph','rainfall']\n    target = 'label'\n    X = data[features]\n    y = data[target]\n    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)",
+        "detail": "Kisaan.AI.training",
+        "documentation": {}
+    },
+    {
+        "label": "Train_Crop_Recommendation",
+        "kind": 2,
+        "importPath": "Kisaan.AI.training",
+        "description": "Kisaan.AI.training",
+        "peekOfCode": "def Train_Crop_Recommendation():\n    data = pd.read_csv(\"dataset/Crop_recommendation.csv\")\n    features = ['N','P','K','temperature','humidity','ph','rainfall']\n    target = 'label'\n    X = data[features]\n    y = data[target]\n    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)\n    model = DecisionTreeClassifier(random_state=42)\n    model.fit(X_train, y_train)\n    y_pred = model.predict(X_test)",
+        "detail": "Kisaan.AI.training",
+        "documentation": {}
+    },
+    {
+        "label": "Train_Crop_Price",
+        "kind": 2,
+        "importPath": "Kisaan.AI.training",
+        "description": "Kisaan.AI.training",
+        "peekOfCode": "def Train_Crop_Price():\n    data = pd.read_csv(\"dataset/Crop_Price.csv\")\n    le_state = LabelEncoder()\n    le_crop = LabelEncoder()\n    data['State'] = le_state.fit_transform(data['State'])\n    data['Crop'] = le_crop.fit_transform(data['Crop'])\n    features = ['State', 'Crop', 'CostCultivation', 'CostCultivation2', 'Production', 'Yield', 'Temperature', 'RainFall Annual']\n    target = 'Price'\n    X = data[features]\n    y = data[target]",
+        "detail": "Kisaan.AI.training",
+        "documentation": {}
+    },
+    {
+        "label": "Train_Fertilizer",
+        "kind": 2,
+        "importPath": "Kisaan.AI.training",
+        "description": "Kisaan.AI.training",
+        "peekOfCode": "def Train_Fertilizer():\n    data = pd.read_csv(\"dataset/fertilizer.csv\")\n    data['Soil'] = data['Soil'].str.strip().str.title()\n    data['Crop'] = data['Crop'].str.strip().str.lower()\n    data['Fertilizer'] = data['Fertilizer'].str.strip()\n    le_soil = LabelEncoder()\n    le_crop = LabelEncoder()\n    le_fertilizer = LabelEncoder()\n    data['Soil'] = le_soil.fit_transform(data['Soil'])\n    data['Crop'] = le_crop.fit_transform(data['Crop'])",
+        "detail": "Kisaan.AI.training",
+        "documentation": {}
+    },
+    {
+        "label": "Train_Disease",
+        "kind": 2,
+        "importPath": "Kisaan.AI.training",
+        "description": "Kisaan.AI.training",
+        "peekOfCode": "def Train_Disease():\n    df = pd.read_csv(\"dataset/symptoms_df.csv\")\n    df['Symptoms'] = df[['Symptom_1', 'Symptom_2', 'Symptom_3', 'Symptom_4']].values.tolist()\n    df['Symptoms'] = df['Symptoms'].apply(lambda x: list(set(s.strip().lower() for s in x if pd.notnull(s) and s.strip())))\n    mlb = MultiLabelBinarizer()\n    X = mlb.fit_transform(df['Symptoms'])\n    y = df['Disease']\n    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)\n    model = DecisionTreeClassifier()\n    model.fit(X_train, y_train)",
+        "detail": "Kisaan.AI.training",
+        "documentation": {}
+    },
+    {
+        "label": "Train_Breast_Cancer",
+        "kind": 2,
+        "importPath": "Kisaan.AI.training",
+        "description": "Kisaan.AI.training",
+        "peekOfCode": "def Train_Breast_Cancer():\n    data = load_breast_cancer()\n    X = data.data\n    y = data.target\n    feature_names = data.feature_names\n    top_features = [\n        'mean radius', 'mean texture', 'mean perimeter', 'mean area',\n        'mean smoothness', 'mean compactness', 'mean concavity',\n        'mean concave points', 'mean symmetry', 'mean fractal dimension'\n    ]",
+        "detail": "Kisaan.AI.training",
+        "documentation": {}
+    }
+]
